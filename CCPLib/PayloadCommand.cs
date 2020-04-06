@@ -4,7 +4,7 @@ namespace ClarkChatProtocol
     // Byte Enum up to 256 only
     public enum PayloadCommand
     {
-        None,
+        NONE,
         REGISTER,
         LOGIN,
         LOGOUT,
